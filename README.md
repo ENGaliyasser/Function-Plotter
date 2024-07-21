@@ -33,19 +33,15 @@ If you prefer to run the application from the source code:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   cd your-repository
+   git clone [https://github.com/yourusername/your-repository.git](https://github.com/ENGaliyasser/Function-Plotter.git)
+   cd Function-Plotter
    ```
 
 2. **Install Dependencies**:
 
    Ensure you have Python 3.x installed. You can install the required packages using `pip`. 
 
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   The `requirements.txt` file should include:
+   include:
 
    ```
    PySide2
