@@ -33,7 +33,7 @@ If you prefer to run the application from the source code:
 1. **Clone the Repository**:
 
    ```bash
-   git clone [https://github.com/yourusername/your-repository.git](https://github.com/ENGaliyasser/Function-Plotter.git)
+   git clone https://github.com/ENGaliyasser/Function-Plotter.git
    cd Function-Plotter
    ```
 
