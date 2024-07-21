@@ -5,7 +5,7 @@
 To use the application without setting up a Python environment, you can download the pre-built executable:
 
 1. **Download the ZIP**:
-   - Go to the [releases page](https://github.com/yourusername/your-repository/releases) and download the ZIP file.
+   - Go to the [releases page](release) and download the ZIP file.
 
 2. **Extract the ZIP**:
    - Uncompress the downloaded ZIP file to a desired location on your computer.
